@@ -1,0 +1,21 @@
+@media all and (max-width: 800px) {
+    div,
+    form {
+      padding: 5px;
+      display: flex;
+      flex: 1;
+      flex-direction: column;
+    }
+
+  }
+
+  @media all and (min-width: 600px) {
+    div,
+    form {
+      padding: 5px;
+      display: flex;
+      flex: 1;
+      flex-direction: column;
+    }
+
+  }
